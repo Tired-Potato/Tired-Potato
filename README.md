@@ -1,2 +1,2 @@
-Just floating around
+energy = energy-1;
 
